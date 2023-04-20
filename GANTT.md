@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/CrimsonLeaves/ENG1-Team20-Assessment2">
-    <img src="./images/gameScreenshotTeam13.png" alt="Logo" width="399" height="400">
+    <img src="./images/gameScreenshotTeam13a.png" alt="Logo" width="399" height="400">
   </a>
 
   <h1 align="center">Piazza Panic</h1>
