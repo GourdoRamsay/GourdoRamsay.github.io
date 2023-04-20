@@ -60,9 +60,9 @@
   •
   <a href="./files/team13/documents/Use-Case_Diagram_v2.pdf"><strong> Use Case Diagram v2 </strong></a>
   •
-  <a href="./files/team13/documents/Component_Diagram_v1.pdf"><strong> Component Diagram v1 </strong></a>
+  <a href="./files/team13/documents/Component_diagram_v1.pdf"><strong> Component Diagram v1 </strong></a>
   •
-  <a href="./files/team13/documents/Component_Diagram_v2.pdf"><strong> Component Diagram v2 </strong></a>
+  <a href="./files/team13/documents/Component_diagram_v2.pdf"><strong> Component Diagram v2 </strong></a>
   •
   <a href="./files/team13/documents/All_attributes_in_chef.pdf"><strong> All Attributes in chef </strong></a>
   •
