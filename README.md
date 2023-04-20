@@ -26,7 +26,7 @@
 
 <h3 align="center">Team 13 Documentation</h3>
 <p align="center">
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/TEAM13README.md"><strong>Team 13</strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/TEAM13README.md"><strong>Team 13</strong></a>
 </p>
 
 <h1 align="center">Team 20 Project</h1>
@@ -71,5 +71,5 @@
 
 <h3 align="center">Team 13 Documentation</h3>
 <p align="center">
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/TEAM13README.md"><strong>Team 13</strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/TEAM13README.md"><strong>Team 13</strong></a>
 </p>
