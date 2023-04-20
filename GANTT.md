@@ -1,13 +1,14 @@
 <div align="center">
   <a href="https://github.com/CrimsonLeaves/ENG1-Team20-Assessment2">
-    <img src="./images/gameScreenshot.png" alt="Logo" width="399" height="400">
+    <img src="./images/gameScreenshotTeam13.png" alt="Logo" width="399" height="400">
   </a>
 
   <h1 align="center">Piazza Panic</h1>
 
   <p align="center">
     <br />
-    <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io">Home</a>
+    <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io">Team 20 Home</a>
+    <a href="TEAM13README"><strong>Team 13 Home</strong></a>
   </p>
 </div>
 
@@ -53,5 +54,6 @@
   <p align="center">
     <br />
     <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io">Home</a>
+    <a href="TEAM13README"><strong>Team 13 Home</strong></a>
   </p>
 </div>
