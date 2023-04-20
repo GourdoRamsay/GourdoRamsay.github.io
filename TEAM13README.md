@@ -56,7 +56,7 @@
   •
   <a href="./files/team13/documents/State_Diagram_v2.pdf"><strong> State Diagram v2 </strong></a>
   •
-  <a href="./files/team13/documents/Use-Case_Diagram v1.pdf"><strong> Use Case Diagram v1 </strong></a>
+  <a href="./files/team13/documents/Use-Case_Diagram_v1.pdf"><strong> Use Case Diagram v1 </strong></a>
   •
   <a href="./files/team13/documents/Use-Case_Diagram_v2.pdf"><strong> Use Case Diagram v2 </strong></a>
   •
