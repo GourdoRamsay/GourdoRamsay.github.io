@@ -90,9 +90,9 @@
 </p>
 <h3 align="center">Implementation</h3>
 <p align="center">
-  <a href="./files/team13/documents/Piazza Panic.jar" download><strong> Piazza Panic.jar </strong></a>
+  <a href="./files/team13/game/Piazza Panic.jar" download><strong> Piazza Panic.jar </strong></a>
   •
-  <a href="./files/team13/documents/piazza-panic-main (1).zip" download><strong> Implementation Part A </strong></a>
+  <a href="./files/team13/game/piazza-panic-main (1).zip" download><strong> Implementation Part A </strong></a>
   •
   <a href="./files/team13/documents/Implementation Part B.pdf"><strong> Implementation Part B </strong></a>
 </p>
