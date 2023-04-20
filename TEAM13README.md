@@ -18,9 +18,9 @@
 
 <h3 align="center">Assessment Framework</h3>
 <p align="center">
-  <a href="./files/team13/assessmentDocuments/brief.md"><strong> brief.md </strong></a>
+  <a href="./files/assessmentDocuments/brief.md"><strong> brief.md </strong></a>
   •
-  <a href="./files/team13/assessmentDocuments/eng1-team-assessment-1.pdf"><strong> assessment.pdf </strong></a>
+  <a href="./files/assessmentDocuments/eng1-team-assessment-1.pdf"><strong> assessment.pdf </strong></a>
 </p>
 
 <h3 align="center">Team 20 Documentation</h3>
