@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/CrimsonLeaves/ENG1-Team20-Assessment2">
-    <img src="./assets/gameScreenshot.png" alt="Logo" width="399" height="400">
+    <img src="./images/gameScreenshot.png" alt="Logo" width="399" height="400">
   </a>
 
   <h1 align="center">Piazza Panic</h1>
@@ -27,19 +27,19 @@
 
 <h3 align="center">Project Repository</h3>
 <p align="center">
-  <a href="https://github.com/CrimsonLeaves/ENG1-Team20-Assessment2"><strong>github.com</strong></a>
+  <a href="https://github.com/CrimsonLeaves/ENG1-Team20-Assessment2"><strong>ENG1-Team20-Assessment2</strong></a>
 <p>
 <h3 align="center">Website Repository</h3>
 <p align="center">
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io"><strong>this</strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io"><strong>GourdoRamsay.github.io</strong></a>
 </p>
 <h3 align="center">Requirements</h3>
 <p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a>
+ <!-- <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a> TODO-->
 </p>
 <h3 align="center">Architecture</h3>
 <p align="center">
-  <!--<a href="./files/assessment/Architecture V2.pdf"><strong> Architecture v2 </strong></a> TODO-->
+  <!-- <a href="./files/assessment/Architecture V2.pdf"><strong> Architecture v2 </strong></a> TODO-->
 </p>
 <h3 align="center">Method Selection and Planning</h3>
 <p align="center">
