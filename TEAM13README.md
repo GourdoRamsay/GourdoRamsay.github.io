@@ -11,7 +11,7 @@
     <a href="https://github.com/team13eng1/piazza-panic"><strong>Team 13 GitHub Repo</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/TEAM13README.md">Team 13 GitHubIO Website</a>
+    <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/TEAM13README.md"><strong>Team 13 GitHubIO Website</strong></a>
   </p>
 </div>
 

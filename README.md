@@ -6,21 +6,22 @@
   <h1 align="center">Piazza Panic</h1>
 
   <p align="center">
-    A LibGDX game for ENG1
+    A LibGDX game for ENG1. This project is a continuation of Team 13's work on the creation of Piazza Panic.
+    Below you will find the documentation and source code for Team 13's work and Team 20's work.
     <br />
     <a href="https://github.com/CrimsonLeaves/ENG1-Team20-Assessment2"><strong>Team 20 GitHub Repo</strong></a> 
     <br />
     <br />
-    <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io">Team 20 GitHubIO Website</a>
+    <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io"><strong>Team 20 GitHubIO Website</strong></a>
   </p>
 </div>
 
 
 <h3 align="center">Assessment Framework</h3>
 <p align="center">
-  <a href="./files/assessmentDocuments/brief.md"><strong> brief.md </strong></a>
+  <a href="./files/assessmentDocuments/brief.md"><strong>Briefing</strong></a>
   •
-  <a href="./files/assessmentDocuments/eng1-team-assessment-1.pdf"><strong> assessment.pdf </strong></a>
+  <a href="./files/assessmentDocuments/eng1-team-assessment-1.pdf"><strong>Structure</strong></a>
 </p>
 
 <h3 align="center">Team 13 Documentation</h3>
