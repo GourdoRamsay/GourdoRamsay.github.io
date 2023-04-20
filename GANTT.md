@@ -8,7 +8,7 @@
   <p align="center">
     <br />
     <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io">Team 20 Home</a>
-    <a href="TEAM13README"><strong>Team 13 Home</strong></a>
+    <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/TEAM13README.md"><strong>Team 13 Home</strong></a>
   </p>
 </div>
 
@@ -54,6 +54,6 @@
   <p align="center">
     <br />
     <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io">Home</a>
-    <a href="TEAM13README"><strong>Team 13 Home</strong></a>
+    <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/TEAM13README.md"><strong>Team 13 Home</strong></a>
   </p>
 </div>

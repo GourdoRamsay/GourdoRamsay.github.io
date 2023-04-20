@@ -11,7 +11,7 @@
     <a href="https://github.com/team13eng1/piazza-panic"><strong>Team 13 GitHub Repo</strong></a>
     <br />
     <br />
-    <a href="TEAM13README">Team 13 GitHubIO Website</a>
+    <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/TEAM13README.md">Team 13 GitHubIO Website</a>
   </p>
 </div>
 
@@ -25,7 +25,7 @@
 
 <h3 align="center">Team 20 Documentation</h3>
 <p align="center">
-  <a href="README"><strong>Team 20</strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/README.md"><strong>Team 20</strong></a>
 </p>
 
 <h1 align="center">Team 13 Project</h1>
@@ -36,7 +36,7 @@
 
 <h3 align="center">Website Repository</h3>
 <p align="center">
-  <a href="TEAM13README"><strong>Team 13</strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/TEAM13README.md"><strong>Team 13</strong></a>
 </p>
 <h3 align="center">Requirements</h3>
 <p align="center">
@@ -82,7 +82,7 @@
 <p align="center">
   <a href="./files/team13/documents/Method Selection and Planning.pdf"><strong> Method Selection and Planning </strong></a>
   •
-  <a href="GANTT"><strong> Gantt Charts </strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/GANTT.md"><strong> Gantt Charts </strong></a>
 </p>
 <h3 align="center">Risk Assessment and Mitigation</h3>
 <p align="center">
@@ -99,5 +99,5 @@
 
 <h3 align="center">Team 20 Documentation</h3>
 <p align="center">
-  <a href="README"><strong>Team 20</strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/Team20WebsiteIO/README.md"><strong>Team 20</strong></a>
 </p>
