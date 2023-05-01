@@ -52,7 +52,7 @@
 
 <h3 align="center">Method Selection and Planning</h3>
 <p align="center">
-  <!--<a href="./files/assessment/Method Selection and Planning.pdf"><strong> Method Selection and Planning </strong></a> TODO-->
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/msapTeam20.pdf"><strong> Method Selection and Planning </strong></a>
 </p>
 
 <h3 align="center">Risk Assessment and Mitigation</h3>
