@@ -90,7 +90,9 @@
 <h3 align="center">Testing Report</h3>
 <p align="center">
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Test2.pdf"><strong>Test2.pdf</strong></a>
+  •
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Test2.pdf"><strong>Automated Testing Report</strong></a>
+  •
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Test2.pdf"><strong>Manual Testing Report</strong></a>
 </p>
 
