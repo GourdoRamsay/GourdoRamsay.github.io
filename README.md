@@ -47,7 +47,7 @@
 
 <h3 align="center">Architecture</h3>
 <p align="center">
-  <!-- <a href="./files/assessment/Architecture V2.pdf"><strong> Architecture v2 </strong></a> TODO-->
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/stateDiagram.jpg"><strong> State Diagram </strong></a>
 </p>
 
 <h3 align="center">Method Selection and Planning</h3>
