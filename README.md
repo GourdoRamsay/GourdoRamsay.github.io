@@ -84,7 +84,7 @@
 
 <h3 align="center">Change Report</h3>
 <p align="center">
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/changeReport.pdf"><strong>Change Report</strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Change2.pdf"><strong>Change Report</strong></a>
 </p>
 
 <h3 align="center">Testing Report</h3>
