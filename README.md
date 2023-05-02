@@ -71,10 +71,10 @@
 <h3 align="center">Implementation</h3>
 <p align="center">
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/PiazzaPanic.jar" download><strong> Piazza Panic.jar </strong></a>
-  <!--• DO NOT REMOVE, USED AS SPACER-->
-  <!--<a href="./files/assessment/piazza-panic-main (1).zip" download><strong> Implementation Part A </strong></a> TODO-->
-  <!--• DO NOT REMOVE, USED AS SPACER-->
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Impl2.pdf"><strong> Implementation Part B </strong></a>
+  • 
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/code.zip" download><strong> Code Zip </strong></a>
+  • 
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Impl2.pdf"><strong> Implementation Documentation </strong></a>
 </p>
 
 <h3 align="center">Continuous Implementation</h3>
@@ -85,6 +85,11 @@
 <h3 align="center">Change Report</h3>
 <p align="center">
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/changeReport.pdf"><strong>Change Report</strong></a>
+</p>
+
+<h3 align="center">Testing Report</h3>
+<p align="center">
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Test2.pdf"><strong>Testing Report</strong></a>
 </p>
 
 <h3 align="center">Team 13 Documentation</h3>
