@@ -42,7 +42,7 @@
 
 <h3 align="center">Requirements</h3>
 <p align="center">
- <!-- <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a> TODO-->
+ <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Requirements.pdf"><strong>Requirements</strong></a>
 </p>
 
 <h3 align="center">Architecture</h3>
