@@ -42,7 +42,7 @@
 
 <h3 align="center">Requirements</h3>
 <p align="center">
- <!-- <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a> TODO-->
+ <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Requirements.pdf"><strong>Requirements</strong></a>
 </p>
 
 <h3 align="center">Architecture</h3>
@@ -59,7 +59,7 @@
 
 <h3 align="center">Risk Assessment and Mitigation</h3>
 <p align="center">
-  <!--<a href="./files/assessment/Risk Assessment and Mitigation v2.pdf"><strong>Risk Assessment and Mitigation</strong></a> TODO-->
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/raam.pdf"><strong>Risk Assessment and Mitigation</strong></a>
 </p>
 
 <h3 align="center">Implementation</h3>
