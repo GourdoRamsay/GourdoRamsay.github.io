@@ -91,7 +91,7 @@
 <p align="center">
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Test2.pdf"><strong>Test2.pdf</strong></a>
   •
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Test2.pdf"><strong>Automated Testing Report</strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/TestingCoverageReportFINAL.zip"><strong>Automated Testing Report</strong></a>
   •
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Manual_Testing_Records.pdf"><strong>Manual Testing Report</strong></a>
 </p>
