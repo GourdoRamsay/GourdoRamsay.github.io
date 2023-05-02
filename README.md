@@ -77,9 +77,9 @@
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Impl2.pdf"><strong> Implementation Documentation </strong></a>
 </p>
 
-<h3 align="center">Continuous Implementation</h3>
+<h3 align="center">Continuous Integration</h3>
 <p align="center">
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/ci.pdf"><strong>Continuous Implementation</strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/ci.pdf"><strong>Continuous Integration</strong></a>
 </p>
 
 <h3 align="center">Change Report</h3>
