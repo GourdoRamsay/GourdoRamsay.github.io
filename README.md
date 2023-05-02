@@ -82,6 +82,11 @@
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/ci.pdf"><strong>Continuous Implementation</strong></a>
 </p>
 
+<h3 align="center">Change Report</h3>
+<p align="center">
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/changeReport.pdf"><strong>Change Report</strong></a>
+</p>
+
 <h3 align="center">Team 13 Documentation</h3>
 <p align="center">
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/TEAM13README.md"><strong>Team 13</strong></a>
