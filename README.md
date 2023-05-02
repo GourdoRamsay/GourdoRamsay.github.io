@@ -53,9 +53,9 @@
     •
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/UseCaseDiagram.png"><strong> Use Case Diagram </strong></a>
     •
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/sequenceDiagram.jpg"><strong> Sequence Diagram </strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/chefAttributes.png"><strong> Chef Attributes </strong></a>
     •
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/sequenceDiagram.jpg"><strong> Sequence Diagram </strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/playScreenAttributes.png"><strong> Play Screen Attributes </strong></a>
 </p>
 
 <h3 align="center">Method Selection and Planning</h3>
