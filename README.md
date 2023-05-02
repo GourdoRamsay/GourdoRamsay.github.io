@@ -74,7 +74,7 @@
   <!--• DO NOT REMOVE, USED AS SPACER-->
   <!--<a href="./files/assessment/piazza-panic-main (1).zip" download><strong> Implementation Part A </strong></a> TODO-->
   <!--• DO NOT REMOVE, USED AS SPACER-->
-  <!--<a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Impl2.pdf"><strong> Implementation Part B </strong></a> TODO-->
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/Impl2.pdf"><strong> Implementation Part B </strong></a>
 </p>
 
 <h3 align="center">Team 13 Documentation</h3>
