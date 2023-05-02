@@ -51,7 +51,7 @@
   •
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/sequenceDiagram.jpg"><strong> Sequence Diagram </strong></a>
     •
-  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/UseCaseDiagram.png"><strong> Use Case Diagram </strong></a>
+  <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/useCaseDiagramV2.png"><strong> Use Case Diagram </strong></a>
     •
   <a href="https://github.com/GourdoRamsay/GourdoRamsay.github.io/blob/main/files/team20/chefAttributes.png"><strong> Chef Attributes </strong></a>
     •
